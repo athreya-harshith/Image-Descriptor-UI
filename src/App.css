@@ -1,0 +1,47 @@
+.home-container {
+  height: 90vh;
+}
+.img-container {
+  width: 40vw;
+  max-height: 40vh;
+}
+.caption-form{
+  width: 100%;
+}
+.img-upload-container{
+  width: 50vw;
+}
+.img-upload {
+  width: 100%;
+}
+.prompt-container{
+  width: 30vw;
+  height: 90vh;
+  border-left: 0.2px solid rgb(79, 78, 78);
+  padding: 10px;
+}
+.prompt-result-container
+{
+  height: 90%;
+  overflow-y: auto;
+  margin-bottom: 30px;
+}
+.prompt-submit-button
+{
+  border: none;
+  background-color: white;
+  margin: 2px;
+}
+.description {
+  margin: 5px;
+  padding: 10px;
+  background-color: rgba(227, 227, 227, 0.911);
+  border-radius: 25px;
+}
+.description-page {
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
